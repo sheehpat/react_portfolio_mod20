@@ -5,7 +5,7 @@ import AboutMe from './components/AboutMe';
 import Portfolio from './components/Portfolio';
 import Contact from './components/ContactForm';
 import Resume from './components/Resume';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import { Routes, Route } from "react-router-dom";
 import './App.css'
 
